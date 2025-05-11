@@ -33,7 +33,7 @@ Install miui 14 and orangefox recovery
 
 Reboot to orangefox
 
-Change /data filesystem to ext4
+Format userdata
 
 Flash miui 12 without flashing userdata part
 
