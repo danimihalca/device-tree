@@ -1,0 +1,10 @@
+[Unit]
+Description=Enable all modules on boot
+Requires=lightdm.service
+
+[Service]
+Type=oneshot
+ExecStart=bash /usr/bin/modules.sh
+
+[Install]
+WantedBy=multi-user.target
