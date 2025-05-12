@@ -100,7 +100,7 @@ Double touch to wake :x:
 
 ## Sound
 
-Earphones :x:
+Earphones :white_check_mark:
 
 Loudspeaker :white_check_mark:
 
