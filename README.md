@@ -42,7 +42,3 @@ Reboot to fastbootd mode
 Flash system.img to system_a
 
 Flash boot to boot_a
-
-### Working status
-
-Lomiri starts YEAH!!!! but wifi screenshot and flashlight don`t work (its not complete list)
