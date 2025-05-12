@@ -10,13 +10,13 @@ Notification LED :white_check_mark:
 
 ## Camera
 
-Flashlight
+Flashlight :white_check_mark:
 
-Photo
+Photo :white_check_mark:
 
-Video
+Video :white_check_mark:
 
-Switching between cameras
+Switching between cameras :white_check_mark:
 
 ## Cellular
 
@@ -46,72 +46,70 @@ Volume control in calls
 
 ## GPU
 
-Boot into UI
+Boot into UI :white_check_mark:
 
-Hardware video playback 
+Hardware video playback :white_check_mark:
 
 ## Misc
 
-AppArmor patches
+AppArmor patches :white_check_mark:
 
-Battery percentage
+Battery percentage :white_check_mark:
 
-Offline charging
+Offline charging :white_check_mark:
 
-Online charging
+Online charging :white_check_mark:
 
-Recovery image
+Recovery image :x:
 
-Reset to factory defaults
+Reset to factory defaults :x:
 
-RTC time
+RTC time :white_check_mark:
 
-Shutdown / Reboot
+Shutdown / Reboot :white_check_mark:
 
 Wireless External monitor
 
-Waydroid
+Waydroid :x:
 
 ## Network
 
-Bluetooth
+Bluetooth :x:
 
-Flight mode 
+Flight mode :x:
 
 Hotspot
 
-NFC
-
-WiFi 
+WiFi :white_check_mark:
 
 ## Sensors
 
-Automatic brightness
+Automatic brightness :x:
 
-Fingerprint reader
+Fingerprint reader :x:
 
 GPS
 
 Proximity
 
-Rotation
+Rotation :white_check_mark:
 
-Touchscreen
+Touchscreen :white_check_mark:
 
-Double touch to wake
+Double touch to wake :x:
 
 ## Sound
 
-Earphones
+Earphones :x:
 
-Loudspeaker
+Loudspeaker :white_check_mark:
 
-Microphone
+Microphone :white_check_mark:
 
-Volume control
+Volume control :white_check_mark:
 
 ## USB
 
-MTP access
+MTP access :white_check_mark:
 
-ADB access 
+ADB access :white_check_mark:
