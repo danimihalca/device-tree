@@ -1,77 +1,115 @@
-Actors:
+##Actors:
 
 Manual brightness
+
 Torchlight
+
 Vibration
 
-Camera:
+##Camera:
 
 Flashlight
+
 Photo
+
 Video
+
 Switching between cameras
 
-Cellular:
+##Cellular:
 
 Carrier info, signal sterngth
+
 Data connection
+
 Incoming, outgoing calls
+
 MMS in, out
+
 PIN unlock
+
 SMS in, out
+
 Change audio routings
+
 Voice in calls
+
 Volume control in calls 
 
-Endurance:
+##Endurance:
 
 24+ hours battery lifetime
+
 7+ days stability 
 
-GPU:
+##GPU:
 
 Boot into UI
+
 Hardware video playback 
 
-Misc:
+##Misc:
 
 AppArmor patches
+
 Battery percentage
+
 Offline charging
+
 Online charging
+
 Recovery image
+
 Reset to factory defaults
+
 RTC time
+
 Shutdown / Reboot
+
 Wireless External monitor
+
 Waydroid
 
-Network:
+##Network:
 
 Bluetooth
+
 Flight mode 
+
 Hotspot
+
 NFC
+
 WiFi 
 
-Sensors:
+##Sensors:
 
 Automatic brightness
+
 Fingerprint reader
+
 GPS
+
 Proximity
+
 Rotation
+
 Touchscreen
+
 Double touch to wake
 
-Sound:
+##Sound:
 
 Earphones
+
 Loudspeaker
+
 Microphone
+
 Volume control
 
-USB:
+##USB:
 
 MTP access
+
 ADB access 
