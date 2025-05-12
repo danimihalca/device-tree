@@ -1,12 +1,12 @@
 ## Actors
 
-Manual brightness
+Manual brightness :white_check_mark:
 
-Torchlight
+Torchlight :white_check_mark:
 
-Vibration
+Vibration :white_check_mark:
 
-Notification LED
+Notification LED :white_check_mark:
 
 ## Camera
 
