@@ -6,6 +6,8 @@ Torchlight
 
 Vibration
 
+Notification LED
+
 ## Camera
 
 Flashlight
