@@ -70,7 +70,7 @@ Shutdown / Reboot :white_check_mark:
 
 Wireless External monitor
 
-Waydroid :x:
+Waydroid :white_check_mark:
 
 ## Network
 
