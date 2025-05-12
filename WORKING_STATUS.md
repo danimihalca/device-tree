@@ -1,4 +1,4 @@
-##Actors
+## Actors
 
 Manual brightness
 
@@ -6,7 +6,7 @@ Torchlight
 
 Vibration
 
-##Camera
+## Camera
 
 Flashlight
 
@@ -16,7 +16,7 @@ Video
 
 Switching between cameras
 
-##Cellular
+## Cellular
 
 Carrier info, signal sterngth
 
@@ -36,19 +36,19 @@ Voice in calls
 
 Volume control in calls 
 
-##Endurance
+## Endurance
 
 24+ hours battery lifetime
 
 7+ days stability 
 
-##GPU
+## GPU
 
 Boot into UI
 
 Hardware video playback 
 
-##Misc
+## Misc
 
 AppArmor patches
 
@@ -70,7 +70,7 @@ Wireless External monitor
 
 Waydroid
 
-##Network
+## Network
 
 Bluetooth
 
@@ -82,7 +82,7 @@ NFC
 
 WiFi 
 
-##Sensors
+## Sensors
 
 Automatic brightness
 
@@ -98,7 +98,7 @@ Touchscreen
 
 Double touch to wake
 
-##Sound
+## Sound
 
 Earphones
 
@@ -108,7 +108,7 @@ Microphone
 
 Volume control
 
-##USB
+## USB
 
 MTP access
 
