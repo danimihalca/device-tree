@@ -94,7 +94,7 @@ Rotation :white_check_mark:
 
 Touchscreen :white_check_mark:
 
-Double touch to wake :x:
+Double touch to wake :white_check_mark:
 
 ## Sound
 
