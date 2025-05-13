@@ -86,7 +86,7 @@ WiFi :white_check_mark:
 
 Automatic brightness :x:
 
-Fingerprint reader :x:
+Fingerprint reader :white_check_mark:
 
 GPS
 
