@@ -84,7 +84,7 @@ WiFi :white_check_mark:
 
 ## Sensors
 
-Automatic brightness :x:
+Automatic brightness :white_check_mark:
 
 Fingerprint reader :white_check_mark:
 
