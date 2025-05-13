@@ -90,8 +90,6 @@ Fingerprint reader :white_check_mark:
 
 GPS
 
-Proximity
-
 Rotation :white_check_mark:
 
 Touchscreen :white_check_mark:
