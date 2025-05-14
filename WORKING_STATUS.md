@@ -20,11 +20,11 @@ Switching between cameras :white_check_mark:
 
 ## Cellular
 
-Carrier info, signal sterngth
+Carrier info, signal sterngth :white_check_mark:
 
-Data connection
+Data connection :white_check_mark:
 
-Incoming, outgoing calls
+Incoming, outgoing calls :white_check_mark:
 
 MMS in, out
 
@@ -32,11 +32,11 @@ PIN unlock
 
 SMS in, out
 
-Change audio routings
+Change audio routings :white_check_mark:
 
-Voice in calls
+Voice in calls :white_check_mark:
 
-Volume control in calls 
+Volume control in calls :white_check_mark:
 
 ## Endurance
 
