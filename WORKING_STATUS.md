@@ -78,7 +78,7 @@ Bluetooth :x:
 
 Flight mode :x:
 
-Hotspot
+Hotspot :white_check_mark:
 
 WiFi :white_check_mark:
 
