@@ -76,7 +76,7 @@ Waydroid :white_check_mark:
 
 Bluetooth :x:
 
-Flight mode :x:
+Flight mode :white_check_mark:
 
 Hotspot :white_check_mark:
 
