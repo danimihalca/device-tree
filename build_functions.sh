@@ -21,5 +21,5 @@ build_flashable_images() {
     local ota_dir="$1"
     local images_output="$2"
 
-    ./build/system-image-from-ota.sh "$ota_dir"/ubuntu_command "$images_output"
+    sudo ./build/system-image-from-ota.sh "$ota_dir"/ubuntu_command "$images_output"
 }
