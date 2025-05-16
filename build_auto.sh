@@ -1,10 +1,10 @@
-#!/bin/bash
+# $1 - is deviceinfo variant
 
-local build_variant = "$1"
+#!/bin/bash
 
 source build_functions.sh
 
-choice_deviceinfo "$build_variant"
+choice_deviceinfo "$1"
 build_device_adaptations
 build_ota_package ota
 build_flashable_images ota images
