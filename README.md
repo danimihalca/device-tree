@@ -19,6 +19,12 @@ system.img - rootfs.img converted to android sparse format
 
 dtbo.img - dtbo prebulit
 
+## Build scripts overview
+
+build_auto.sh - builds adaptations, ota and images for variant passed to first argument
+
+build_ci.sh - builds adapation, ota and images for all avalibale variants
+
 ## Port to halium 12 - 13
 
 Xioami don`t publish miui 13 - 14 kernel source for this device
