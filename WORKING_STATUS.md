@@ -26,11 +26,11 @@ Data connection :white_check_mark:
 
 Incoming, outgoing calls :white_check_mark:
 
-MMS in, out
+MMS in, out :white_check_mark:
 
 PIN unlock
 
-SMS in, out
+SMS in, out :white_check_mark:
 
 Change audio routings :white_check_mark:
 
