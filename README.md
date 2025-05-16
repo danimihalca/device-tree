@@ -3,10 +3,8 @@
 ## Compile guide
 
 ```bash
-chmod +x build.sh
-./build.sh
-./build/prepare-fake-ota.sh out/device_biloba_usrmerge.tar.xz ota
-sudo ./build/system-image-from-ota.sh ota/ubuntu_command images
+chmod +x build_auto.sh
+./build_auto.sh <focal or noble>
 ```
 
 Images output to images directory
