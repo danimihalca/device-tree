@@ -60,9 +60,9 @@ Offline charging :white_check_mark:
 
 Online charging :white_check_mark:
 
-Recovery image :x:
+Recovery image :white_check_mark:
 
-Reset to factory defaults :x:
+Reset to factory defaults :white_check_mark:
 
 RTC time :white_check_mark:
 
