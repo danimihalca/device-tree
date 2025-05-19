@@ -88,3 +88,11 @@ service boot-hal-1-2 /system/bin/android.hardware.boot@1.2-service
     user root
     group root
     seclabel u:r:recovery:s0
+
+on post-fs-data
+   start setup_fake_cache
+   wait_for_prop halium.datamount.done 1
+
+service setup_fake_cache /bin/sh /setup_fake_cache.sh
+   disabled
+   oneshot

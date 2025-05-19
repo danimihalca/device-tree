@@ -62,7 +62,7 @@ Online charging :white_check_mark:
 
 Recovery image - parity very small interface
 
-Reset to factory defaults - parity not working from os but work from recovery
+Reset to factory defaults :white_check_mark:
 
 RTC time :white_check_mark:
 
