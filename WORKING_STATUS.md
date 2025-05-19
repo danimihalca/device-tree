@@ -60,7 +60,7 @@ Offline charging :white_check_mark:
 
 Online charging :white_check_mark:
 
-Recovery image - parity not working usb and very small interface
+Recovery image - parity very small interface
 
 Reset to factory defaults - parity not working from os but work from recovery
 
