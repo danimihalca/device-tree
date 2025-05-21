@@ -613,7 +613,7 @@ mountroot() {
 
 		# Clean up mounted partitions so recovery can manage them
 		umount -d /android-system /android-rootfs /halium-system /tmpmnt
-		dmsetup remove_all
+		#dmsetup remove_all
 
 		mount -n -t tmpfs tmpfs ${rootmnt}
 		cd ${rootmnt}
