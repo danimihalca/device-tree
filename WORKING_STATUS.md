@@ -74,7 +74,7 @@ Waydroid :white_check_mark:
 
 ## Network
 
-Bluetooth :x:
+Bluetooth :white_check_mark:
 
 Flight mode :white_check_mark:
 
