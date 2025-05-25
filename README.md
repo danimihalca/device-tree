@@ -31,7 +31,7 @@ Xioami don`t publish miui 13 - 14 kernel source for this device
 
 ## Flashing
 
-First, you need to download [prebuilds](https://codeberg.org/Biloba-UT/prebuilds) images-0 is 20.04, images_noble is 24.04(testing unstable bad other synonyms here) or build yourself
+First, you need to download [prebuilds](https://codeberg.org/Biloba-UT/prebuilds) images-0 is 20.04, images_noble is 24.04(testing unstable bad other synonyms here) or [build yourself](#Compile-guide)
 
 After that, you should install the stock firmware version V12.5.9.0.RCUMIXM completely (flash_all).
 
