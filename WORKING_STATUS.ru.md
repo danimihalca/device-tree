@@ -1,12 +1,12 @@
 ## Я не знаю как это перевести (Actors)
 
-Ручное изменение !!ЯРОСТИ!! :white_check_mark:
+Ручное изменение яроксти :white_check_mark:
 
 Фонарик :white_check_mark:
 
 Вибрация :white_check_mark:
 
-Лапочка уведомлений :white_check_mark:
+Индекатор уведомлений :white_check_mark:
 
 ## Камера
 
@@ -24,7 +24,7 @@
 
 Мобильный интернет :white_check_mark:
 
-Входяшии, исходящие звонки :white_check_mark:
+Входяшие, исходящие звонки :white_check_mark:
 
 MMS сообщения :white_check_mark:
 
@@ -40,7 +40,7 @@ SMS сообщения :white_check_mark:
 
 ## Работаспособность
 
-24+ часа работы от аккумулатора
+24+ часа работы от аккумулятора
 
 7+ дней стабильности
 
@@ -48,19 +48,19 @@ SMS сообщения :white_check_mark:
 
 Графический интерфейс :white_check_mark:
 
-Апаратное ускорение видео :white_check_mark:
+Аппаратное ускорение видео :white_check_mark:
 
 ## Мелочовка
 
 Патчи для AppArmor :white_check_mark:
 
-Процент аккумулятора :white_check_mark:
+Процентаж аккумулятора :white_check_mark:
 
 Оффлайн зарядка (при выключеном телефоне) :white_check_mark:
 
 Онлайн зарядка (при включеном телефоне) :white_check_mark:
 
-Recovery image - Нету доступа к динамичеким разделам
+Recovery image - Нету доступа к динамическим разделам
 
 Сброс до заводских настроек :white_check_mark:
 
@@ -84,7 +84,7 @@ WiFi :white_check_mark:
 
 ## Сенсоры
 
-Автоякрость :white_check_mark:
+Автояркость :white_check_mark:
 
 Сканер отпечатков пальцов :white_check_mark:
 
@@ -94,7 +94,7 @@ GPS
 
 Сенсорный экран :white_check_mark:
 
-Два тапа для включение :white_check_mark:
+Два тапа для включение экрана :white_check_mark:
 
 ## Звук
 
@@ -104,7 +104,7 @@ GPS
 
 Микрофон :white_check_mark:
 
-Контроль громкости :white_check_mark:
+Регулирование громкости :white_check_mark:
 
 ## USB
 
