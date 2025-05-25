@@ -31,18 +31,21 @@ Xioami don`t publish miui 13 - 14 kernel source for this device
 
 ## Flashing
 
-Change slot to a
+First, you need to download [prebuilds](https://codeberg.org/Biloba-UT/prebuilds) images-0 is 20.04, images_noble is 24.04(testing unstable bad other synonyms here) or build yourself
 
-Install miui 14 and orangefox recovery
+After that, you should install the stock firmware version V12.5.9.0.RCUMIXM completely (flash_all).
 
-Reboot to orangefox
+Then, reboot to fastboot mode (Off device and hold power and vol - buttons) and run this command fastboot reboot fastboot
 
-Format userdata
+Finally, run these commands in the terminal window that should be open in the folder where you downloaded the files:
 
-Flash miui 12 without flashing userdata part
+```bash
+fastboot flash dtbo dtbo.img
+fastboot flash boot boot.img
+fastboot flash system system.img
+fastboot reboot bootloader
+```
 
-Reboot to fastbootd mode
+Wait fastboot word on display and run fastboot reboot recovery command
 
-Flash system.img to system_a
-
-Flash boot to boot_a
+After this, the phone will reboot into recovery mode. Then tap on 'Factory reset' -> 'Format data/factory reset' -> 'Format data'. After that, simply reboot the phone.
