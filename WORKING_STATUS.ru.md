@@ -60,7 +60,7 @@ SMS сообщения :white_check_mark:
 
 Онлайн зарядка (при включеном телефоне) :white_check_mark:
 
-Recovery image - Нету доступа к динамическим разделам
+Recovery image :white_check_mark:
 
 Сброс до заводских настроек :white_check_mark:
 

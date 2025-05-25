@@ -60,7 +60,7 @@ Offline charging :white_check_mark:
 
 Online charging :white_check_mark:
 
-Recovery image - parity no accses to dynamic parts
+Recovery image :white_check_mark:
 
 Reset to factory defaults :white_check_mark:
 

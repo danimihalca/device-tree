@@ -68,7 +68,7 @@ portStatus:
       - id: "onlineCharging"
         value: "+"
       - id: "recoveryImage"
-        value: "+-" # No accses to dynamic parts
+        value: "+"
       - id: "factoryReset"
         value: "+"
       - id: "rtcTime"
