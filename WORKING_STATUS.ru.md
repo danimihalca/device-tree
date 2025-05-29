@@ -28,7 +28,7 @@
 
 MMS сообщения :white_check_mark:
 
-PIN код на симку
+PIN код на симку :white_check_mark:
 
 SMS сообщения :white_check_mark:
 
@@ -40,9 +40,9 @@ SMS сообщения :white_check_mark:
 
 ## Работаспособность
 
-24+ часа работы от аккумулятора
+24+ часа работы от аккумулятора :white_check_mark:
 
-7+ дней стабильности
+7+ дней стабильности :white_check_mark:
 
 ## GPU
 

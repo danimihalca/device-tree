@@ -28,7 +28,7 @@ Incoming, outgoing calls :white_check_mark:
 
 MMS in, out :white_check_mark:
 
-PIN unlock
+PIN unlock :white_check_mark:
 
 SMS in, out :white_check_mark:
 
@@ -40,9 +40,9 @@ Volume control in calls :white_check_mark:
 
 ## Endurance
 
-24+ hours battery lifetime
+24+ hours battery lifetime :white_check_mark:
 
-7+ days stability 
+7+ days stability :white_check_mark:
 
 ## GPU
 
