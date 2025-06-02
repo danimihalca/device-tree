@@ -68,7 +68,7 @@ RTC time :white_check_mark:
 
 Shutdown / Reboot :white_check_mark:
 
-Wireless External monitor
+Wireless External monitor :x:
 
 Waydroid :white_check_mark:
 

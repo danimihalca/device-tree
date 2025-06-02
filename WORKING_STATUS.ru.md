@@ -68,7 +68,7 @@ Recovery image :white_check_mark:
 
 Выключение / Перезагрузка :white_check_mark:
 
-Беспроводной внешний монитор
+Беспроводной внешний монитор :x:
 
 Waydroid (Эмулятор андроида) :white_check_mark:
 
