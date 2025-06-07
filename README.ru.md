@@ -9,6 +9,19 @@ chmod +x build_auto.sh
 
 Результат сохраняется в директорию images.
 
+### Сборка образов из пребилдов адаптаций (без компиляции ядра)
+
+```bash
+[ -d build ] || git clone https://gitlab.com/ubports/community-ports/halium-generic-adaptation-build-tools -b main build # Клонирует репозиторий с сборочными скриптами если те не склонированы
+GIT_LFS_SKIP_SMUDGE=1 git clone --depth 1 https://codeberg.org/Biloba-UT/prebuilds.git # Клонирует репозиторий с пребилдами без образов для прошивки
+mv prebuilds/device_adaptations out
+rm -rdf prebuilds
+source build_functions.sh
+choice_deviceinfo <focal or noble>
+build_ota_package ota
+build_flashable_images ota images # Конвертирует ota пакет в образы для прошивки
+```
+
 ### Результат сборки
 
 boot.img — linux + halium initrd

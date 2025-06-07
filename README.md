@@ -9,6 +9,19 @@ chmod +x build_auto.sh
 
 Images output to images directory
 
+### Build images from adaptations prebuild (without kernel compileing)
+
+```bash
+[ -d build ] || git clone https://gitlab.com/ubports/community-ports/halium-generic-adaptation-build-tools -b main build # Cloning build scripts if don`t exists
+GIT_LFS_SKIP_SMUDGE=1 git clone --depth 1 https://codeberg.org/Biloba-UT/prebuilds.git # clone prebuilds repository without flashable images
+mv prebuilds/device_adaptations out
+rm -rdf prebuilds
+source build_functions.sh
+choice_deviceinfo <focal or noble>
+build_ota_package ota # Fake ota building
+build_flashable_images ota images # Convert fake ota to flashable images
+```
+
 ### Compile output
 
 boot.img - linux + halium initrd
