@@ -66,6 +66,8 @@ Recovery image :white_check_mark:
 
 Часы реальново времени :white_check_mark:
 
+SD карты :white_check_mark:
+
 Выключение / Перезагрузка :white_check_mark:
 
 Беспроводной внешний монитор :x:
@@ -77,6 +79,8 @@ Waydroid (Эмулятор андроида) :white_check_mark:
 Bluetooth :white_check_mark:
 
 Режим полета (Буква йо не работает) :white_check_mark:
+
+FM радио
 
 Хотспот :white_check_mark:
 

@@ -66,6 +66,8 @@ Reset to factory defaults :white_check_mark:
 
 RTC time :white_check_mark:
 
+SD card storage :white_check_mark:
+
 Shutdown / Reboot :white_check_mark:
 
 Wireless External monitor :x:
@@ -77,6 +79,8 @@ Waydroid :white_check_mark:
 Bluetooth :white_check_mark:
 
 Flight mode :white_check_mark:
+
+FM radio
 
 Hotspot :white_check_mark:
 
