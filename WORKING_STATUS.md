@@ -56,7 +56,7 @@ AppArmor patches :white_check_mark:
 
 Battery percentage :white_check_mark:
 
-Offline charging :x:
+Offline charging :white_check_mark:
 
 Online charging :white_check_mark:
 
