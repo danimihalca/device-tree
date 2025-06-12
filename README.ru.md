@@ -1,5 +1,7 @@
 # Дерево для ubuntu touch ТОЛЬКО ДЛЯ MIUI 12 (Xioami redmi note 8 2021)
 
+![Картинка с девайсов](https://gitlab.com/biloba-ut/device-metadata/-/raw/master/devicepicture.png?ref_type=heads)
+
 ## Инструкция по сборке
 
 ```bash
