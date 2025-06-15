@@ -80,7 +80,7 @@ Bluetooth :white_check_mark:
 
 Flight mode :white_check_mark:
 
-FM radio
+FM radio :x:
 
 Hotspot :white_check_mark:
 

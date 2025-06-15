@@ -80,7 +80,7 @@ Bluetooth :white_check_mark:
 
 Режим полета (Буква йо не работает) :white_check_mark:
 
-FM радио
+FM радио :x:
 
 Хотспот :white_check_mark:
 
