@@ -1,6 +1,6 @@
 # Ubuntu touch device tree ONLY FOR MIUI 12 (Xioami redmi note 8 2021)
 
-![Device picture](https://gitlab.com/biloba-ut/device-metadata/-/raw/master/devicepicture.png?ref_type=heads)
+![Device picture](https://gitlab.com/biloba-ut/ut-hw-models/-/raw/biloba_changes/Phones/Xiaomi%20Redmi%20Note%208%20(2021)/Xiaomi%20Redmi%20Note%208%20(2021).png?ref_type=heads)
 
 ## Compile guide
 
