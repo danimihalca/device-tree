@@ -98,10 +98,9 @@ class Program:
         print('Wait device in recovery')
         self.__ubports_recovery.wait_device('recovery')
 
-        if self.__verify_recovery:
-            if not self.__ubports_recovery.check_recovery():
-                print(f'{ERROR_COLOR}Error: device in recovery detected, but is not ubports recovery{END_COLOR}')
-                return
+        if self.__verify_recovery and not self.__ubports_recovery.check_recovery():
+            print(f'{ERROR_COLOR}Error: device in recovery detected, but is not ubports recovery{END_COLOR}')
+            return
 
         self.__ubports_recovery.disable_ota_signature_verification()
 
