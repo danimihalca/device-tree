@@ -19,7 +19,7 @@ GIT_LFS_SKIP_SMUDGE=1 git clone --depth 1 https://codeberg.org/Biloba-UT/prebuil
 mv prebuilds/device_adaptations out
 rm -rdf prebuilds
 source build_functions.sh
-choice_deviceinfo <focal or noble>
+choice_deviceinfo <focal или noble>
 build_ota_package ota
 build_flashable_images ota images # Конвертирует ota пакет в образы для прошивки
 ```
