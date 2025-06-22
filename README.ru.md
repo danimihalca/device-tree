@@ -6,7 +6,7 @@
 
 ```bash
 chmod +x build_auto.sh
-./build_auto.sh <focal or noble>
+./build_auto.sh <focal или noble>
 ```
 
 Результат сохраняется в директорию images.
