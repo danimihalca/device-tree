@@ -6,6 +6,8 @@
 
 ## Инструкция по сборке
 
+Для сборки требуется только docker
+
 ```bash
 chmod +x build_auto.sh
 ./build_auto.sh <focal или noble>

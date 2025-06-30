@@ -6,6 +6,8 @@
 
 ## Compile guide
 
+Compile require only docker
+
 ```bash
 chmod +x build_auto.sh
 ./build_auto.sh <focal or noble>
