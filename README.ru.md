@@ -64,3 +64,7 @@ fastboot reboot bootloader
 Подождите пока не появиться надпись fastboot и запустите комманду fastboot reboot recovery
 
 Когда телефон загрузится в recovery, нужно протапать 'Factory reset' -> 'Format data/factory reset' -> 'Format data'. После этого просто перезагрузите телефон.
+
+## Скриншоты
+
+![Локскрин](screenshots/lockscreen.png) ![Меню запуска приложений](screenshots/app_launcher.png) ![Главное меню](screenshots/mainmenu.png) ![Меню запущеных приложений](screenshots/openedappsmenu.png)
