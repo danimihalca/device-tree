@@ -8,4 +8,9 @@ RUN apt update && \
     wget https://raw.githubusercontent.com/LineageOS/android_system_core/lineage-17.1/mkbootimg/mkbootimg.py -O /usr/bin/mkbootimg
 
 RUN mkdir /toolchain && \
-    git clone https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86 -b android11-gsi /toolchain/linux-x86 --depth 1 --recursive
+    git clone https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86 -b android11-gsi /toolchain/linux-x86 --depth 1 --recursive && \
+    mv /toolchain/linux-x86/clang-r383902 /toolchain/linux-x86/safe-dir && \
+    mv /toolchain/linux-x86/clang-stable /toolchain/linux-x86/safe-dir-stable && \
+    rm -rdf /toolchain/linux-x86/.git /toolchain/linux-x86/clang-* && \
+    mv /toolchain/linux-x86/safe-dir /toolchain/linux-x86/clang-r383902 && \
+    mv /toolchain/linux-x86/safe-dir-stable /toolchain/linux-x86/clang-stable
