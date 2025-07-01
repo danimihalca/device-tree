@@ -68,3 +68,7 @@ fastboot reboot bootloader
 Wait fastboot word on display and run fastboot reboot recovery command
 
 After this, the phone will reboot into recovery mode. Then tap on 'Factory reset' -> 'Format data/factory reset' -> 'Format data'. After that, simply reboot the phone.
+
+## Screenshots
+
+![Lockscreen](screenshots/lockscreen.png) ![App launcher](screenshots/app_launcher.png) ![Main menu](screenshots/mainmenu.png) ![Opened apps menu](screenshots/openedappsmenu.png)
