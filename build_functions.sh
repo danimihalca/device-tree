@@ -25,7 +25,7 @@ choice_deviceinfo() {
 }
 
 build_device_adaptations() {
-    ./build.sh
+    ./build.sh -b build_dir
 }
 
 build_ota_package() {
