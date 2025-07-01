@@ -12,6 +12,8 @@ echo "------BUILDING DEVICE ADPATATIONS------"
 
 run_command_in_container "mkdir -p build_dir/downloads && ln -s /toolchain/linux-x86 build_dir/downloads/linux-x86 && source build_functions.sh && choice_deviceinfo focal && build_device_adaptations"
 
+sudo rm -rdf build_dir
+
 echo "------BUILDING FOCAL IMAGES------"
 
 # Build focal images
