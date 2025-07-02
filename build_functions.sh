@@ -20,7 +20,10 @@ run_command_in_container() { # create container based on ut-biloba-build image a
 choice_deviceinfo() {
     local deviceinfo_variant="$1"
 
-    rm deviceinfo
+    if [ -f "deviceinfo" ]; then
+        echo 'Remove exist deviceinfo file'
+        rm deviceinfo
+    fi
     ln -s "deviceinfo-$deviceinfo_variant" deviceinfo
 }
 
