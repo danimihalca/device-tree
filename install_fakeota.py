@@ -34,33 +34,14 @@ class ADB:
     def reboot(self, mode):
        start_command_with_output(['adb', 'reboot', mode])
 
-class GIT:
-    @staticmethod
-    def get_current_branch():
-       return start_command_with_output(['git', 'rev-parse', '--abbrev-ref', 'HEAD'])
-
-    @staticmethod
-    def checkout(branch):
-       print(start_command_with_output(['git', 'checkout', branch]))
-
 class UBportsRecovery(ADB):
-    __git = GIT()
-
     def check_recovery(self):
        if self.getprop('ro.ubuntu.recovery') == 'true':
            return True
        return False
 
     def disable_ota_signature_verification(self):
-       current_branch = self.__git.get_current_branch()
-
-       self.__git.checkout('debug_disable_signature_verification')
-       self.run_command_on_device('rm /sbin/system-image-upgrader /system/bin/system-image-upgrader')
-       self.push('ramdisk-recovery-overlay/sbin/system-image-upgrader', '/sbin')
-       self.run_command_on_device('ln -sf /sbin/system-image-upgrader /system/bin')
-       self.run_command_on_device('chmod +x /sbin/system-image-upgrader /system/bin/system-image-upgrader')
-
-       self.__git.checkout(current_branch)
+       self.run_command_on_device('/sbin/enable_updater_debug')
 
     def wipe_data(self):
        self.run_command_on_device('''echo 'format data' > /cache/recovery/ubuntu_command''')
