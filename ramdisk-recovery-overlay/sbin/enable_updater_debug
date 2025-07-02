@@ -1,0 +1,6 @@
+#!/system/bin/sh
+
+rm /sbin/system-image-upgrader /system/bin/system-image-upgrader
+mv /sbin/system-image-upgrader.debug /sbin/system-image-upgrader
+ln -sf /sbin/system-image-upgrader /system/bin
+chmod +x /sbin/system-image-upgrader /system/bin/system-image-upgrader
