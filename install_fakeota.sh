@@ -38,6 +38,8 @@ push_and_install_ota() {
     adb shell "$update_command"
 }
 
+echo "DEPRECATION WARNING: install_fakeota.sh replaced by install_fakeota.py"
+
 if [[ "$1" == "" ]];
 then
    echo "Put ota path to first argument!"
