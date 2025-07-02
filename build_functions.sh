@@ -17,6 +17,13 @@ run_command_in_container() { # create container based on ut-biloba-build image a
            ut-biloba-build bash -c "$command"
 }
 
+inject_toolchain_to_builddir() { # Create symlink from /toolchain to build_dir
+    local build_dir="$1"
+
+    mkdir -p "$build_dir"/downloads
+    ln -s /toolchain/linux-x86 "$build_dir"/downloads/linux-x86
+}
+
 choice_deviceinfo() {
     local deviceinfo_variant="$1"
 
