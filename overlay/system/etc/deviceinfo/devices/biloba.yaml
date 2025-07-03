@@ -8,13 +8,7 @@ biloba:
     - Landscape
     - InvertedLandscape
   MirAndroidPlatformServerPartialUpdates:
-    - false
-  MirAndroidPlatformServerBackpressure:
     - true
-  MirAndroidPlatformServerEglSync:
-    - true
-  MirAndroidPlatformClientFenceSync:
-    - all
   BacklightSysfsPath: "/sys/class/leds/lcd-backlight"
   FlashlightSysfsPath: "/sys/devices/platform/odm/odm:flashlights_cust_gpio/torch_brightness"
   FlashlightSwitchPath: "/sys/devices/platform/odm/odm:flashlights_cust_gpio/torch_brightness"
