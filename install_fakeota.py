@@ -41,7 +41,7 @@ class UBportsRecovery(ADB):
        return False
 
     def disable_ota_signature_verification(self):
-       self.run_command_on_device('/sbin/enable_updater_debug')
+       self.run_command_on_device('enable_updater_debug')
 
     def wipe_data(self):
        self.run_command_on_device('''echo 'format data' > /cache/recovery/ubuntu_command''')
