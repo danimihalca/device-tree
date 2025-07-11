@@ -1,2 +1,2 @@
 source deviceinfo-focal
-deviceinfo_ubuntu_touch_release="noble"
+deviceinfo_ubuntu_touch_release="24.04-1.x"
