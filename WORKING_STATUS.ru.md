@@ -78,7 +78,7 @@ Waydroid (Эмулятор андроида) :white_check_mark:
 
 Bluetooth :white_check_mark:
 
-Режим полета (Буква йо не работает) :white_check_mark:
+Режим полёта :white_check_mark:
 
 FM радио :x:
 
