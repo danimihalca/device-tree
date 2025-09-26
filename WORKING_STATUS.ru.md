@@ -54,17 +54,17 @@ SMS сообщения :white_check_mark:
 
 Патчи для AppArmor :white_check_mark:
 
-Процентаж аккумулятора :white_check_mark:
+Определение процента заряда аккумулятора :white_check_mark:
 
 Оффлайн зарядка (при выключеном телефоне) :white_check_mark:
 
 Онлайн зарядка (при включеном телефоне) :white_check_mark:
 
-Recovery image :white_check_mark:
+Режим восстановления :white_check_mark:
 
 Сброс до заводских настроек :white_check_mark:
 
-Часы реальново времени :white_check_mark:
+Часы реального времени :white_check_mark:
 
 SD карты :white_check_mark:
 
