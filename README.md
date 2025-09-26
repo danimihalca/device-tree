@@ -6,14 +6,14 @@
 
 ## Compile guide
 
-Compile require only docker
+Compilation process requires only docker
 
 ```bash
 chmod +x build_auto.sh
 ./build_auto.sh <focal or noble>
 ```
 
-Images output to images directory
+Images containes in images directory
 
 ### Build images from adaptations prebuild (without kernel compileing)
 
